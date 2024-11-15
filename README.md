@@ -1,6 +1,6 @@
 # Smart Smoke and Fire Detection System
 
-This project demonstrates a **Smart Smoke and Fire Detection System** using the NodeMCU ESP8266, MQ-6 gas sensor, DHT sensor, buzzer, LED, and the Blynk IoT platform. The system continuously monitors gas levels, temperature, and humidity, sending alerts when thresholds are crossed. It also provides real-time data through the Blynk app.
+This project demonstrates a **Smart Smoke and Fire Detection System** using the NodeMCU ESP8266, MQ-6 gas and smoke sensor, DHT sensor, buzzer, LED, and the Blynk IoT platform. The system continuously monitors smoke levels, temperature, and humidity, sending alerts when thresholds are crossed. It also provides real-time data through the Blynk app.
 
 ## Features
 
