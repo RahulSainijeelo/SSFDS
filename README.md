@@ -5,7 +5,7 @@ This project demonstrates a **Smart Smoke and Fire Detection System** using the 
 ## Features
 
 - **Real-time monitoring** of:
-  - Gas levels (MQ-6 Sensor)
+  - Smoke levels (MQ-6 Sensor)
   - Temperature (DHT Sensor)
   - Humidity (DHT Sensor)
 - **Alerts**:
@@ -26,7 +26,7 @@ This project demonstrates a **Smart Smoke and Fire Detection System** using the 
 - **Cloud Platform**: Blynk IoT
 - **Power Supply**: USB or external source
 
-## Circuit Diagram
+## Circuit Connections
 
 - **DHT Sensor**: Pin D2
 - **MQ-6 Sensor**: Pin A0
