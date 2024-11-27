@@ -66,6 +66,12 @@ This project demonstrates a **Smart Smoke and Fire Detection System** using the 
    - V3: Alert Status
 3. Configure Blynk notifications or automations for events like `fire_detected`.
 
+### Group Members for The Project
+   - Mohammad Suhail (Roll No. 39)
+   - Rahul Kumar Singh (Roll No. 55)
+   - Rahul Saini (Roll No. 56)
+   - Zafar Ali (Roll No. 75)
+
 ## Code
 
 The complete code for the project is available in this repository. Below is a snippet of key parts:
